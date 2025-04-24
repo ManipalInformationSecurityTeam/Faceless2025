@@ -12,7 +12,7 @@ Refer the [plot over here](https://github.com/ManipalInformationSecurityTeam/Fac
 ## Level Solutions:
 To refer to the writeups for each of the levels, click on the corresponding level:
 - [Level 1](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level01.md) made by [Amogh Kaushik](https://github.com/AmoghKaushik)
-- [Level 2](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level02.md) made by [Pranav Kumar]()
+- [Level 2](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level02.md) made by [Pranav Kumar](https://github.com/Pranav-Kumar14)
 - [Level 3](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level03.md) made by [Shravani Sawant](https://github.com/Shanu48)
 - [Level 4](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level04.md) made by [Roonil03](https://github.com/Roonil03)
 - [Level 5](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level05.md) made by [Amogh Kaushik](https://github.com/AmoghKaushik)
@@ -27,7 +27,7 @@ To refer to the writeups for each of the levels, click on the corresponding leve
 - [Roonil03](https://github.com/Roonil03)
 ### Level Designers:
 - [Amogh Kaushik](https://github.com/AmoghKaushik)
-- [Pranav Kumar]()
+- [Pranav Kumar](https://github.com/Pranav-Kumar14)
 - [Shravani Sawant](https://github.com/Shanu48)
 - [Roonil03](https://github.com/Roonil03)
 - [Jinx_27](https://github.com/Vedant-Mathur)
