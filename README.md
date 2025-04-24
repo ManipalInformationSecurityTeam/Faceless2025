@@ -4,7 +4,7 @@
 
 ## Event Description:
 Faceless 2025, organised by the [Manipal Information Security Team (MIST)](https://github.com/ManipalInformationSecurityTeam), was a fully online Open-Source Intelligence (OSINT) challenge. The 24-hour event combined narrative-driven investigations of fictional characters 
-With cross-platform data gathering, the task of the players was to figure out the killer in a murder mystery-oriented plot. 
+With cross-platform data gathering, the task of the players was to figure out the killer in a murder mystery-oriented plot. The event garnered an outstanding 500+ registrations from 25+ colleges across India.  
 
 ## Plot:
 Refer the [plot over here](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Story.md)
