@@ -12,15 +12,15 @@ Refer the [plot over here](https://github.com/ManipalInformationSecurityTeam/Fac
 ## Level Solutions:
 To refer to the writeups for each of the levels, click on the corresponding level:
 - [Level 1](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level1.md) made by [Amogh Kaushik](https://github.com/AmoghKaushik)
-- [Level 2]() made by [Pranav Kumar]()
+- [Level 2](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level2.md) made by [Pranav Kumar]()
 - [Level 3](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level3.md) made by [Shravani Sawant](https://github.com/Shanu48)
 - [Level 4](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level4.md) made by [Roonil03](https://github.com/Roonil03)
 - [Level 5](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level5.md) made by [Amogh Kaushik](https://github.com/AmoghKaushik)
-- [Level 6]() made by [Jinx_27](https://github.com/Vedant-Mathur)
-- [Level 7]() made by [Jinx_27](https://github.com/Vedant-Mathur)
-- [Level 8]() made by [Anoushka Ghosh](https://github.com/anoushkaghosh231)
-- [Level 9]() made by [Sheldon Rodricks](https://github.com/SheldonRodricks)
-- [Level 10]() made by [Asmita Guha](https://github.com/minnieG12)
+- [Level 6](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level6.md) made by [Jinx_27](https://github.com/Vedant-Mathur)
+- [Level 7](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level7.md) made by [Jinx_27](https://github.com/Vedant-Mathur)
+- [Level 8](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level8.md) made by [Anoushka Ghosh](https://github.com/anoushkaghosh231)
+- [Level 9](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level9.md) made by [Sheldon Rodricks](https://github.com/SheldonRodricks)
+- [Level 10](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Level10.md) made by [Asmita Guha](https://github.com/minnieG12)
 
 ## Team for Faceless'25:
 ### Plot Designer and Event Manager:
