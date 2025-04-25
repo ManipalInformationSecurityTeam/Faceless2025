@@ -8,11 +8,16 @@ The team now stares at the information provided, and begins the final descent to
 [LeetCode](https://leetcode.com/u/vedsvalley1079/)
 
 ## Questions:
-1. What is the name of the web-diary which gives away the motive?  **Answer:** `Shadowframe
-2. What is Vedika's Tumblr blog called?  **Answer:** Unstable Symmetry
-3. What is the name of the project that is mainly discussed in the GitHub repositories?  **Answer:** Iridescence
-4. Who was the first person to raise suspicion?  **Answer:** Zayan Farooqui
-5. What is the name of the private site?  **Answer:** Singularity
+1. What is the name of the web diary which gives away the motive?  
+   **Answer:** `Shadowframe`
+2. What is Vedika's Tumblr blog called?  
+   **Answer:** `Unstable Symmetry`
+3. What is the name of the project that is mainly discussed in the GitHub repositories?  
+   **Answer:** `Iridescence`
+4. Who was the first person to raise suspicion?  
+   **Answer:** `Zayan Farooqui`
+5. What is the name of the private site?  
+   **Answer:** `Singularity`
 
 
 ## Solution Approach:
