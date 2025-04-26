@@ -31,14 +31,14 @@ The team now stares at the information provided, and begins the final descent to
   - Project **Iridescence** is repeatedly mentioned in commit messages.
 - Another post on the blog contains a **password-protected link** to a second **private Tumblr blog**.
   - The **password** is embedded in the **tags** of the same post (`#passwordisfun`).
-### 5. Suspicion Raised: Zayan Farooqui
+### 3. Suspicion Raised: Zayan Farooqui
 - In the **comments section** under Vedika’s profile:
   - A user named **Zayan Farooqui** posts:
     > "Fascinating paper... but I could’ve sworn I read parts of this logic in an old draft shared by A. Shah during the 2023 Q-Sim dev thread..."
 
   - This is the **first red flag** publicly linking Ashna to the stolen work.
 
-### 6. Final Stop: Singularity (Personal Website)
+### 4. Final Stop: Singularity (Personal Website)
 - Q.net also contains a link to Vedika’s personal site: **Singularity**.
   - The site includes abstract poems and essays themed around:
     - **Professional jealousy**
@@ -46,7 +46,7 @@ The team now stares at the information provided, and begins the final descent to
     - **Rivalry**
   - It begins to unravel her emotional spiral and obsession.
 
-### 7. Motive Exposed: Shadowframe Diary
+### 5. Motive Exposed: Shadowframe Diary
 - Finally, the **web-diary** titled **Shadowframe** is uncovered.
   - The diary contains symbolic entries, metaphors, and obsessive musings.
   - While it never outright confesses, the tone, content, and metaphors **heavily imply her motive** and **her role in Ashna’s murder**.
