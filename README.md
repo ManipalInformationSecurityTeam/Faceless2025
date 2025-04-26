@@ -39,12 +39,12 @@ To refer to the writeups for each of the levels, click on the corresponding leve
 - [Roonil03](https://github.com/Roonil03)
 - [Ashwin Mittal](https://github.com/AshwinM17)
 ### Playtesters:
-- [Atharva Agarwal](https://github.com/atharva786738)
-- [Sindhu](https://github.com/sindhu964)
+- [Atharva Agrawal](https://github.com/atharva786738)
+- [Sindhu Ittappa](https://github.com/sindhu964)
 - [Pranav Arora](https://github.com/Mrstrange207)
 - [Akshay Teja](https://github.com/AkshayTeja)
 ### Board Core Committee Members:
 - [Ashwin Mittal](https://github.com/AshwinM17)
-- [Sindhu](https://github.com/sindhu964)
+- [Sindhu Ittappa](https://github.com/sindhu964)
 - [Akshay Teja](https://github.com/AkshayTeja)
 - [Pranav Arora](https://github.com/Mrstrange207)
