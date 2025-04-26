@@ -3,8 +3,8 @@
 - 12th April, 2025 at 1800 hours - 13th April, 2025 at 1800 hours
 
 ## Event Description:
-Faceless 2025, organised by the [Manipal Information Security Team (MIST)](https://github.com/ManipalInformationSecurityTeam), was a fully online Open-Source Intelligence (OSINT) challenge. The 24-hour event combined narrative-driven investigations of fictional characters; 
-With cross-platform data gathering, the task of the players was to figure out the killer in a murder mystery-oriented plot. The event garnered an outstanding **500+** registrations from **25+ colleges** across India.  
+Faceless 2025, organised by the [Manipal Information Security Team (MIST)](https://github.com/ManipalInformationSecurityTeam), was a fully online Open-Source Intelligence (OSINT) challenge. The 24-hour event combined narrative-driven investigations of fictional characters;
+With cross-platform data gathering, the task of the players was to figure out the killer in a murder mystery-oriented plot. The event garnered an outstanding **500+** registrations from **25+ colleges** across India.
 
 ## Plot:
 Refer the [plot over here](https://github.com/ManipalInformationSecurityTeam/Faceless2025/blob/main/Story.md)
@@ -41,10 +41,10 @@ To refer to the writeups for each of the levels, click on the corresponding leve
 ### Playtesters:
 - [Atharva Agarwal](https://github.com/atharva786738)
 - [Sindhu](https://github.com/sindhu964)
-- Pranav Arora
+- [Pranav Arora](https://github.com/Mrstrange207)
 - [Akshay Teja](https://github.com/AkshayTeja)
 ### Board Core Committee Members:
 - [Ashwin Mittal](https://github.com/AshwinM17)
 - [Sindhu](https://github.com/sindhu964)
 - [Akshay Teja](https://github.com/AkshayTeja)
-- Pranav Arora
+- [Pranav Arora](https://github.com/Mrstrange207)
